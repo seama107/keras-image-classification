@@ -27,6 +27,9 @@ from keras.callbacks import ModelCheckpoint
 from keras.callbacks import EarlyStopping
 from keras.callbacks import History
 
+
+
+
 # Config and Hyperparams
 
 # Convolutional Layer 1.
